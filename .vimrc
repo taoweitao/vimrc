@@ -24,3 +24,4 @@ set novisualbell
 set t_vb= 
 set smartindent
 set backspace=indent,eol,start
+vnoremap <C-c> "*y
